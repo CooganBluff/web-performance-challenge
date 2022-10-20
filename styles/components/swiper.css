@@ -26,5 +26,5 @@
   color: var(--color-white);
   max-width: 65%;
   z-index: 1;
-  overflow: auto;
+  overflow: visible;
 }
