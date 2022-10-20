@@ -18,7 +18,7 @@
   text-decoration: none;
 }
 
-.footer__link:hover {
+a.footer__link:hover {
   color: var(--color-light-white);
   text-decoration: underline;
 }
