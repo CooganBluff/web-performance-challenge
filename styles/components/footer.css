@@ -18,6 +18,10 @@
   text-decoration: none;
 }
 
+.footer__sponsor {
+  background: var(--background-color);
+}
+
 a.footer__link:hover {
   color: var(--color-light-white);
   text-decoration: underline;
